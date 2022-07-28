@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/github/lesh3000/proj4?style=svg)](https://circleci.com/github/lesh3000/proj4)
 
 ## Project Overview
 
