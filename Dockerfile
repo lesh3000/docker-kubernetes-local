@@ -7,8 +7,8 @@ WORKDIR /project-ml-microservice-kubernetes
 
 ## Step 2:
 # Copy source code to working directory
-COPY . app.py /project-ml-microservice-kubernetes/
-COPY . model_data /project-ml-microservice-kubernetes/
+COPY project-ml-microservice-kubernetes app.py /project-ml-microservice-kubernetes/
+COPY project-ml-microservice-kubernetes model_data /project-ml-microservice-kubernetes/
 
 ## Step 3:
 # Install packages from requirements.txt
